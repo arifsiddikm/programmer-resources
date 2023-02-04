@@ -5,7 +5,7 @@
 #### Tutorial - General (Frontend & Backend)
 
 | Nama Channel | Materi | URL |
-| ------------ | --------- | --- |
+| ------------ | ------ | --- |
 | WPU | HTML, CSS, Javascript, PHP, Git, GitHub, SASS, <br> Bootstrap, NodeJS, CodeIgniter, Laravel, Livestreaming | [LINK](http://youtube.com/webprogrammingunpas) |
 | Sekolah Koding | HTML, CSS, Javascript, VueJS, ReactJS, <br> Laravel, Golang, Python, Kotlin, Dart, Flutter, TailwindCSS | [LINK](https://www.youtube.com/c/SekolahKoding) |
 | YukCoding Media | PHP, CodeIgniter, Laravel, Wordpress, React Native, Flutter | [LINK](https://www.youtube.com/c/YukCoding2) |
@@ -23,7 +23,7 @@
 ### # List Web Kursus Online 
 
 | Nama | Informasi | URL |
-| ------------ | --------- | --- |
+| ---- | --------- | --- |
 | Udemy | - | [LINK](https://www.udemy.com/) |
 | Codepolitan | - | [LINK](https://codepolitan.com/) |
 | KelasFullStack | - | [LINK](https://kelasfullstack.id/) |
@@ -36,10 +36,23 @@
 
 ---
 
+### # List Ebook Pembelajaran  
+
+| Nama | Informasi | URL |
+| ---- | --------- | --- |
+| Refactoring | - | [LINK](https://ebooks.arifsiddikm.com/63d4ff1d583b3.pdf) |
+| Design Patterns Elements | - | [LINK](https://ebooks.arifsiddikm.com/63d4ff17360b0.pdf) |
+| Clean Code | - | [LINK](https://ebooks.arifsiddikm.com/63d4ff1607aef.pdf) |
+| The Pragmatic Programmer | - | [LINK](https://ebooks.arifsiddikm.com/63d4ff214cb9c.pdf) |
+| Lihat Ebook Programmer Lainnya | - | [LINK](https://arifsiddikm.com/ebook/programmer/) |
+| Lihat Ebook Programming Lainnya | - | [LINK](https://arifsiddikm.com/ebook/programming/) |
+
+---
+
 ### # List Web Pembelajaran 
 
 | Nama | Informasi | URL |
-| ------------ | --------- | --- |
+| ---- | --------- | --- |
 | W3Schools | Berbasis Artikel | [LINK](https://www.w3schools.com/) |
 | Parsinta | Berbasis Video | [LINK](https://parsinta.com/) |
 
@@ -48,7 +61,7 @@
 ### # Aplikasi Pembelajaran 
 
 | Nama | Informasi | URL |
-| ------------ | --------- | --- |
+| ---- | --------- | --- |
 | Sololearn | - | [LINK](https://www.sololearn.com/) |
 | Programminghub | - | [LINK](https://programminghub.io/) |
 | Duolingo | Belajar Bahasa Inggris | [LINK](https://www.duolingo.com/) |
@@ -58,7 +71,7 @@
 ### # List Web Freelance/Kerja Lepas
 
 | Nama | Informasi | URL |
-| ------------ | --------- | --- |
+| ---- | --------- | --- |
 | Upwork | - | [LINK](https://www.upwork.com/) |
 | Fiverr | Freelance mulai dari $5 | [LINK](https://www.fiverr.com/) |
 | Projects | Situs Freelance dari Indonesia | [LINK](https://projects.co.id) |
@@ -69,21 +82,12 @@
 ### # Link yang bisa/perlu/wajib dikunjungi Programmer
 
 | Nama | Informasi | URL |
-| ------------ | --------- | --- |
+| ---- | --------- | --- |
 | RoadmapSH | Memberi arah untuk kamu belajar Pemrograman | [LINK](https://roadmap.sh/) |
 
 ---
 
 ### # List Channel YouTube Pembelajaran Lainnya 
-
-#### Tutorial - General (Frontend & Backend)
-
-| Nama Channel | Materi | URL |
-| ------------ | ------ | --- |
-| WPU | HTML, CSS, Javascript, PHP, Git, GitHub, SASS, <br> Bootstrap, NodeJS, CodeIgniter, Laravel, Livestreaming | [LINK](http://youtube.com/webprogrammingunpas) |
-
-
-
 
 #### Tutorial - Frontend
 

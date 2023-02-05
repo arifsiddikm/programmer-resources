@@ -93,7 +93,7 @@
 
 | Nama Channel | Materi | URL |
 | ------------ | ------ | --- |
-| ArrayID | JS, CSS, TailwindCSS, NextJS, ReactJS | [LINK](https://www.youtube.com/c/ArrayID) |
+| ArrayID | JS, CSS, TailwindCSS, NextJS, ReactJS | [LINK](https://www.youtube.com/@arrayid) |
 | Balademy | Angular, Livewire, Vue | [LINK](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg) |
 | Prawito Hudoro | ReactJS, NextJS, React Native, MERN, JS, Livestreaming | [LINK](https://www.youtube.com/c/prawitohudoro) |
 | Wahidev Academy | React, React Native | [LINK](https://www.youtube.com/c/WahidevAcademy) |

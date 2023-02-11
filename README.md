@@ -84,6 +84,7 @@
 | Nama | Informasi | URL |
 | ---- | --------- | --- |
 | RoadmapSH | Memberi arah untuk kamu belajar Pemrograman | [LINK](https://roadmap.sh/) |
+| Telegram Info Bootcamp IT | Memberi Informasi Bootcamp IT Terbaru | [LINK](https://t.me/InfoBootcampIT/) |
 
 ---
 
